@@ -1,7 +1,7 @@
 /*Poppins-Regular*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 /*Poppins-Bold*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-Bold.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 /*Poppins-ExtraBold*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-ExtraBold.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-ExtraBold.ttf') format('truetype');
     font-weight: bolder;
     font-style: normal;
 }
@@ -25,7 +25,7 @@
 /*Poppins-Light*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-Light.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-Light.ttf') format('truetype');
     font-weight: lighter;
     font-style: normal;
 }
@@ -33,7 +33,7 @@
 /*Poppins-Italic*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-Italic.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
@@ -41,7 +41,7 @@
 /*Poppins-BoldItalic*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-BoldItalic.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
@@ -49,7 +49,7 @@
 /*Poppins-ExtraBoldItalic*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-ExtraBoldItalic.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-ExtraBoldItalic.ttf') format('truetype');
     font-weight: bolder;
     font-style: italic;
 }
@@ -57,7 +57,7 @@
 /*Poppins-LightItalic*/
 @font-face {
     font-family: Poppins;
-    src: url('css/fonts/Poppins/Poppins-LightItalic.ttf') format('truetype');
+    src: url('fonts/Poppins/Poppins-LightItalic.ttf') format('truetype');
     font-weight: lighter;
     font-style: italic;
 }
@@ -65,7 +65,7 @@
 /*Sacramento*/
 @font-face {
     font-family: Sacramento;
-    src: url('css/fonts/Sacramento/Sacramento-Regular.ttf') format('truetype');
+    src: url('fonts/Sacramento/Sacramento-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -73,7 +73,7 @@
 /*Merriweather-Regular*/
 @font-face {
     font-family: Merriweather;
-    src: url('/Fonts/Merriweather/Merriweather-Regular.ttf') format('truetype');
+    src: url('fonts/Merriweather/Merriweather-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
