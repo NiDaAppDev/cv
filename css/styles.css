@@ -1,0 +1,219 @@
+/*Poppins-Regular*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Poppins-Bold*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/*Poppins-ExtraBold*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-ExtraBold.ttf');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+/*Poppins-Light*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-Light.ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/*Poppins-Italic*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-Italic.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/*Poppins-BoldItalic*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/*Poppins-ExtraBoldItalic*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-ExtraBoldItalic.ttf');
+    font-weight: bolder;
+    font-style: italic;
+}
+
+/*Poppins-LightItalic*/
+@font-face {
+    font-family: Poppins;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Poppins/Poppins-LightItalic.ttf');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+/*Sacramento*/
+@font-face {
+    font-family: Sacramento;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Sacramento/Sacramento-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Merriweather-Regular*/
+@font-face {
+    font-family: Merriweather;
+    src: url('/home/chipoki/Documents/VS_Projects/Web Development/CSS - Personal Site/Fonts/Merriweather/Merriweather-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/**********TAG SELECTORS**********/
+body {
+    color: #40514E;
+    margin: 0;
+    font-family: Merriweather;
+    text-align: center;
+}
+
+h1 {
+    margin: 2.6rem auto 0 auto;
+    font-size: 5.625rem;
+    font-family: Sacramento;
+    line-height: 2;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: Poppins;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: Poppins;
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+/**********CLASS SELECTORS**********/
+.top_container {
+    padding-top: 100px;
+    background-color: #E4F9F5;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top_cloud {
+    position: absolute;
+    top: 150px;
+    right: 450px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.middle_container {
+    margin: 100px 0;
+}
+
+.profile_img {
+    width: 17rem;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.skill_row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: start;
+}
+
+.code_img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.learning_img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom_container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.btn {
+    background: #11999e;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background:  #2bc4ad;
+    text-decoration: none;
+  }
+
+  .footer_link {
+    color: #11999E;
+    text-decoration: none;
+    font-family: Poppins;
+    font-weight: bold;
+    margin: 10px 20px;
+  }
+
+  .credits {
+    color: #EAF6F6;
+  }
+
+  .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
