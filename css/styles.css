@@ -139,14 +139,14 @@ hr {
 
 .top_cloud {
     position: absolute;
-    top: 150px;
-    right: 450px;
+    top: 15.5%;
+    right: 23.5%;
 }
 
 .bottom_cloud {
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 21%;
+    bottom: 31%;
 }
 
 .middle_container {
